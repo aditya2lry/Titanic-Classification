@@ -10,11 +10,13 @@ Below are provided the steps that were followed for this project. Each step and 
 Classification techniques
 Classification techniques together with the relative scores.
 
-Classifier	Test set score Accuracy 	CV score	
-Logistic Regression	-	0.81	0.8080
-Decision Tree	-	-	- 0.73  0.7958
-Random Forest - - -	0.80		0.8115
-ExtraTreeClassifier - - - 0.79  0.7991
-xgboost - - - 0.77  0.82
-LGBMClassifier - - - 0.79  0.8226
-CatBoostClassifier - - - 0.81  0.8204
+
+Classifier	         | Accuracy| CV score |
++--------------------|---------|----------|-------------+
+ Logistic Regression |  0.81   |  0.8080  |
+ Decision Tree	     |  0.73   |  0.7958  |
+ Random Forest       |  0.80	 |  0.8115  |
+ ExtraTreeClassifier |  0.79   |  0.7991  |
+ xgboost             |  0.77   |  0.8223  |
+ LGBMClassifier      |  0.79   |  0.8226  |
+ CatBoostClassifier  |  0.81   |  0.8204  |
